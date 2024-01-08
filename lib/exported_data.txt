@@ -1,0 +1,3 @@
+1001	Product A	25000.00	100	Category 1	2023-12-31	
+1002	Product B	50000.00	50	Category 2	2023-12-31	
+1003	Product C	75000.00	75	Category 1	2023-12-31	

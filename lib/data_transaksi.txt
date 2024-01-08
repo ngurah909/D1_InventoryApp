@@ -1,0 +1,6 @@
+Penjualan	7001	2023-01-01	Customer A	John Doe	1001	Product A	5	Rp25.000,00	125000.00	
+Penjualan	7002	2023-01-02	Customer B	Jane Smith	1002	Product B	3	Rp50.000,00	150000.00	
+Penjualan	7003	2023-01-03	Customer C	Bob Johnson	1003	Product C	8	Rp600,00	4800.00	
+Pembelian	9001	2023-01-04	Distributor X	John Doe	1001	Product A	10	Rp25.000,00	250000.00	
+Pembelian	9002	2023-01-05	Distributor Y	Jane Smith	1002	Product B	5	Rp50.000,00	250000.00	
+Pembelian	9003	2023-01-06	Distributor Z	Bob Johnson	1003	Product C	8	Rp480,00	3840.00	

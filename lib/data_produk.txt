@@ -1,0 +1,12 @@
+1014	T-shirt	Rp200.000,00	20	Apparel		
+1003	Product C	Rp75.000,00	75	Category 1	2023-12-31	
+1001	Product A	Rp25.000,00	100	Category 1	2023-12-31	
+1002	Product B	Rp50.000,00	50	Category 2	2023-12-31	
+1015	Smartphone	Rp1.000.000,00	10	Electronics		
+1012	Headphones	Rp500.000,00	30	Electronics		
+1011	Laptop	Rp15.000.000,00	150	Electronics		
+1013	Bread	Rp5.000,00	50	Food	2024-12-31	
+1010	Chocolate Bar	Rp15.000,00	100	Food	2024-12-31	
+1030	produk test	Rp91.000,00	100	test		
+1031	produk testing	Rp20.000,00	200	test		
+1032	test	Rp20.000,00	200	test		

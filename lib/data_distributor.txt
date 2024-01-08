@@ -1,0 +1,4 @@
+6001	Distributor X	Street XYZ, City X	5551234	distributorX@example.com	Aktif	
+6002	Distributor Y	Street YZA, City Y	5555678	distributorY@example.com	Aktif	
+6003	Distributor Z	Street ZAB, City Z	5559012	distributorZ@example.com	Tidak Aktif	
+6004	Distributor Maju Jaya	Street XYZ, City X	5555678	dDistributorMajuJaya@example.com 	Aktif	

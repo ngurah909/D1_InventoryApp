@@ -1,0 +1,5 @@
+2001	John Doe	Manager	Rp5.000.000,00	Aktif	
+2002	Bagus Sutha	Sub Manager 	Rp9.000.000,00	Tidak Aktif	
+3001	Jane Smith	Clerk	Rp3.000.000,00	Aktif	
+4001	Bob Johnson	Cashier	Rp3.500.000,00	Aktif	
+5001	Test	Admin supervisor	Rp9.000,00	Aktif	
